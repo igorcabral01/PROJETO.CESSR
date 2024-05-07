@@ -16,8 +16,3 @@ def mostrar_clientes():
                 print(f"Nome: {nome}, CPF: {cpf}")
     except FileNotFoundError:
         print("Nenhum cliente cadastrado.")
-
-
-""""
-TESTEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!!
-"""
